@@ -1,0 +1,68 @@
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.csproj.AssemblyReference.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.GeneratedMSBuildEditorConfig.editorconfig
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.AssemblyInfoInputs.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.AssemblyInfo.cs
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.csproj.CoreCompileInputs.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.MvcApplicationPartsAssemblyInfo.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\appsettings.json
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.exe
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.deps.json
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.runtimeconfig.json
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.runtimeconfig.dev.json
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.pdb
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Azure.Core.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core依赖注入详解.StaticWebAssets.Manifest.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.RazorTargetAssemblyInfo.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.csproj.CopyComplete
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.dll
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.pdb
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.genruntimeconfig.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\bin\Debug\netcoreapp3.1\ASP.NET Core依赖注入详解.StaticWebAssets.xml
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core依赖注入详解.StaticWebAssets.Pack.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ASP.NET Core依赖注入详解.Microsoft.AspNetCore.StaticWebAssets.props
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ASP.NET Core依赖注入详解.props
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core依赖注入详解.props
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\ASP.NET Core依赖注入详解\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ASP.NET Core依赖注入详解.props
